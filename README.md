@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Shivam Ghode</h1>
-<h3 align="center">A passionate Full Stack Developer from Pandhurna!</h3>
+<h1 align="center">Hi, I'm Shivam Ghode</h1>
+<h3 align="center">Full Stack Web/Java Developer!</h3> 
 
 ---
 
-### 🧑‍💻 About Me
-- 💻 I’m a **Full Stack Developer** who loves building efficient, user-friendly, and scalable applications.
-- 🌱 Currently learning **Advanced React Native** and **Cloud Architecture**.
-- 🚀 Exploring **Spring Boot** + **Microservices** for backend excellence.
-- 🎯 Goal: To architect full-fledged distributed systems and contribute to impactful open-source projects.
-- 📩 Reach me at: **shivamghode2021@gmail.com**
+## About Me  
+I am a dedicated **Full Stack Developer** passionate about building scalable web and mobile applications.  
+My expertise spans frontend, backend, databases, and cloud technologies, delivering efficient and high-quality solutions.
+
+- Currently exploring **Spring Boot & Microservices**
+- Learning **Advanced React Native** and **AWS Cloud Architecture**
+- Strong foundation in **Java, React, MySQL, Hibernate**
+- Contact: **shivamghode2021@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 #### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,34 +40,24 @@
 
 #### **Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
 
-### 📌 Featured Projects
-- [**Gravix UI Library**](https://github.com/shivamghode09/main) — A JavaScript UI library with CLI tools for rapid app building.
+## 📌 Featured Project  
+- [**Gravix UI Library**](https://github.com/shivamghode09/main) — JavaScript UI library with CLI tools for rapid app building.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
-<a href="https://github.com/shivamghode09">
-<img src="https://github-readme-stats.vercel.app/api?username=shivamghode09&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=shivamghode09&show_icons=true&theme=default" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shivamghode09&theme=default" alt="GitHub Streak" height="170"/>
+</p>  
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-<a href="https://github.com/shivamghode09">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shivamghode09&theme=tokyonight" alt="GitHub Streak" />
-</a>
-</p>
-
----
-
-### 🌎 Connect with Me
+## 🌍 Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/shivam-ghode-62a873255/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shivamghode2021@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
